@@ -28,7 +28,7 @@
 <td colspan="4">Sistema desenvolvido na plataforma vBulletin para forum de conteudo sobre ajudas, dicas e ensino, tendo seu principal objetivo tirar dúvidas dos usuarios do forum.</td>
 </tr>
 <tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178814859-7b67da09-6589-42cf-ba1f-368bc08fb2d2.png" alt="" /></td>
+<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178823978-8e0c217a-b3cb-41fe-a81f-144f921c06fd.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
